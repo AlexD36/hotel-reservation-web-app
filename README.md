@@ -1,8 +1,5 @@
-Certainly! Here's a revised version of the README tailored for GitHub:
 
----
-
-# SphereStay
+# SphereStay (In progress)
 
 SphereStay is a hotel reservation web application designed to make finding accommodations within a certain radius easy and convenient. Users can search for hotels based on their location and desired radius, view hotel details, and make bookings seamlessly.
 
@@ -21,7 +18,7 @@ SphereStay is a hotel reservation web application designed to make finding accom
 - **Backend**:
   - Java: Backend programming language for implementing business logic and data handling.
   - Spring Boot: Web framework for building robust and scalable Java applications.
-  - MySQL/PostgreSQL: Relational database management systems for storing hotel data, bookings, and user information.
+  - MySQL: Relational database management systems for storing hotel data, bookings, and user information.
 
 ## Getting Started
 
