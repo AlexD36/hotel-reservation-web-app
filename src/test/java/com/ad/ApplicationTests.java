@@ -1,10 +1,10 @@
-package com.SphereStay.HotelReservationSystemSB;
+package com.ad;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HotelReservationSystemSbApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
