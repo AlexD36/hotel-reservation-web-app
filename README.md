@@ -1,5 +1,5 @@
 
-# SphereStay (In progress)
+# SphereStay 
 
 ![Angular](https://img.shields.io/badge/Angular-15.0.0-red?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-17+-brightgreen?style=flat-square)
@@ -38,3 +38,9 @@ To run SphereStay locally, follow these steps:
 4. Install Angular CLI and run `ng serve` to start the frontend development server.
 5. Run the backend application using your preferred Java IDE or command-line interface.
 6. Access the application through your web browser at `http://localhost:4200`.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
